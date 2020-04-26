@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442125992642",
+    "firebase_url": "https://vitality2-e3231.firebaseio.com",
+    "project_id": "vitality2-e3231",
+    "storage_bucket": "vitality2-e3231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442125992642:android:31a5d6af22cf3d9bfff15b",
+        "android_client_info": {
+          "package_name": "com.example.vitality20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442125992642-bm3n74j27oj5gtjedp7l9oto1vdspoj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHdlCjtaISS29K_L6jIH7w7lj-BHVC6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442125992642-bm3n74j27oj5gtjedp7l9oto1vdspoj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
